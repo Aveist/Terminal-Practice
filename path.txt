@@ -1,0 +1,14 @@
+veist:~/workspace/Terminal-Practice/findthex (master) $ ls
+path1/  path2/  path3/  path4/  x.txt
+
+veist:~/workspace/Terminal-Practice/findthex/path1 (master) $ ls
+cave/  forest.txt  lake.txt  x.txt
+
+aveist:~/workspace/Terminal-Practice/findthex/path2/mysterybox (master) $ ls
+x.txt
+
+aveist:~/workspace/Terminal-Practice/findthex/path4/arctic (master) $ ls
+iceberg.txt  x.txt
+
+aveist:~/workspace/Terminal-Practice/findthex/path4/volcano (master) $ ls
+lavapit.txt  x.txt
